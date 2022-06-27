@@ -2,40 +2,38 @@
   "status" : 1,
   "data" : [
     {
-"open_ad_show" : true,
-"facebook_interstial_fail": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-"facebook_native_fail": "CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID",
-"facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"facebook_banner_fail": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-"google_rewarded_ad": "ca-app-pub-3940256099942544/5224354917",
-"google_open_ads": "ca-app-pub-3940256099942544/3419835294",
-"google_banner": "ca-app-pub-3940256099942544/6300978111",
-"google_banner_fail": "ca-app-pub-3940256099942544/6300978111",
-"google_interstial_fail": "ca-app-pub-3940256099942544/1033173712",
-"google_native_fail": "ca-app-pub-3940256099942544/2247696110",
+"open_ad_show" : false,
+"facebook_interstial_fail": "",
+"facebook_native_fail": "",
+"facebook_banner": "",
+"facebook_banner_fail": "",
+"google_rewarded_ad": "",
+"google_open_ads": "",
+"google_banner": "",
+"google_banner_fail": "",
+"google_interstial_fail": "",
+"google_native_fail": "",
 "common_native": [
-"ca-app-pub-3940256099942544/2247696110"
+
 ],
 "common_interstial": [
-"ca-app-pub-3940256099942544/1033173712",
-"CAROUSEL_IMG_SQUARE_APP_INSTALL#YOUR_PLACEMENT_ID","image"
+
 ],
 "moreapp_json": "https://raw.githubusercontent.com/appssmart/api/main/moreappdata_json.json",
 "app_title": "App Title",
-"native_priority": "google",
-"banner_priority": "facebook",
+"native_priority": "",
+"banner_priority": "",
 "interstitial_priority": [
-"google",
-"facebook","image"
+
 ],
 "rewards_priority": [
-"google","facebook",""
+
 ],
 "common_rewards": [
-"ca-app-pub-3940256099942544/5224354917","VID_HD_16_9_15S_LINK#YOUR_PLACEMENT_ID",""
+
 ],
-"fail_priority": "google",
-"openapp_fail": "google"
+"fail_priority": "",
+"openapp_fail": ""
 }
 ]
 }
